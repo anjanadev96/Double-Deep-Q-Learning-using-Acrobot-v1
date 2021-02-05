@@ -17,7 +17,11 @@ pip install matplotlib
 ```python
 
 python DDQN.py
+
 ```
+
+## Demo
+![Training the Acrobot-v1 environment](demo.gif)
 
 
 ## License
